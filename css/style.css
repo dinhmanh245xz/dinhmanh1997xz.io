@@ -22,7 +22,7 @@
 }
 #main #right {
 	width: 300px;
-	background: blue;
+	
 	float: left;
 	min-height: 400px;
 }
@@ -94,3 +94,7 @@
 #main {
 	margin-top: 10px;
 }
+#main #right img {
+	height: 700px;
+	width: 300px;
+	}
